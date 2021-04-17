@@ -1,5 +1,5 @@
 ![Bustean's github stats](https://github-readme-stats.vercel.app/api?username=BusteanHAN&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![](https://cdn.discordapp.com/attachments/806300597338767450/833100799361286174/02rikkaspin.gif?width=200&height=200)
+![](http://https/media.discordapp.net/attachments/806300597338767450/833100799361286174/02rikkaspin.gif?width=200&height=200)
 <!--
 Here are some ideas to get you started:
 
