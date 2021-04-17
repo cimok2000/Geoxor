@@ -1,5 +1,5 @@
 ![Bustean's github stats](https://github-readme-stats.vercel.app/api?username=BusteanHAN&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-<img src="https://cdn.discordapp.com/attachments/806300597338767450/833106065980915742/02rikkaspin.gif" width="190" style="transform: scaleX(-1);"/>
+<img src="https://cdn.discordapp.com/attachments/806300597338767450/833106065980915742/02rikkaspin.gif" width="190" style="transform:scaleX(-1);"/>
 <img src="https://cdn.discordapp.com/attachments/806300597338767450/833106065980915742/02rikkaspin.gif" width="190"/>
 <!-- ![](https://cdn.discordapp.com/attachments/806300597338767450/833100799361286174/02rikkaspin.gif =200x200) -->
 <!--
