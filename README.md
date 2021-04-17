@@ -1,5 +1,5 @@
 ![Bustean's github stats](https://github-readme-stats.vercel.app/api?username=BusteanHAN&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-![](https://cdn.discordapp.com/attachments/806300597338767450/833098610647236708/491261489299324940.gif?width=200&height=200)
+![](https://tenor.com/view/zero-two-02-spin-darling-in-the-franxx-anime-gif-16938002)
 <!--
 Here are some ideas to get you started:
 
