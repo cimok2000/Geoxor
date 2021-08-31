@@ -36,8 +36,10 @@
 <br />
 <br />
 
-![cimok's github stats](https://github-readme-stats.vercel.app/api?username=cimok2000&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=0d1117)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cimok2000&layout=compact&hide_border=true&theme=radical&bg_color=0d1117)](https://github.com/cimok2000)
+<p align="center">
+  ![cimok's github stats](https://github-readme-stats.vercel.app/api?username=cimok2000&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=0d1117)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cimok2000&layout=compact&hide_border=true&theme=radical&bg_color=0d1117)](https://github.com/cimok2000)
+</p>
 
 [website]: https://cimok.co.uk
 [xornet]: https://github.com/xornet-cloud
