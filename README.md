@@ -6,7 +6,7 @@
 ## I am a CyberSec Student and Developer
 
 - I'm currently learning many things such as Vue and Javascript.
-- I'm a Head Developer of [Xornet][xornet] and [Nusk][nusk].
+- I'm a Head Developer of [Xornet][xornet], [Nusk][nusk] and [Taku][taku].
 - I'm currently studying CyberSec in University.
 
 ### Connect with me:
@@ -48,6 +48,7 @@
 [website]: https://cimok.co.uk
 [xornet]: https://github.com/xornet-cloud
 [nusk]: https://github.com/nusk-app
+[taku]: https://github.com/taku-moe
 [youtube]: https://www.youtube.com/channel/UCE28SIvmo91GlHGJwdQsxKA
 [twitter]: https://twitter.com/cimok2000
 [instagram]: https://www.instagram.com/cimok2000/
