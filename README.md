@@ -7,6 +7,7 @@
 
 - I'm currently learning many things such as Vue and Javascript.
 - I'm currently studying CyberSec in University.
+- Developer and Maintainer of [@cimok/faceit.js](https://github.com/cimok2000/faceit.js)
 
 ### Connect with me:
 
@@ -45,9 +46,6 @@
 </p>
 
 [website]: https://cimok.co.uk
-[xornet]: https://github.com/xornet-cloud
-[nusk]: https://github.com/nusk-app
-[taku]: https://github.com/taku-moe
 [youtube]: https://www.youtube.com/channel/UCE28SIvmo91GlHGJwdQsxKA
 [twitter]: https://twitter.com/cimok2000
 [instagram]: https://www.instagram.com/cimok2000/
