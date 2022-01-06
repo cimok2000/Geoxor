@@ -8,6 +8,7 @@
 - I'm currently learning many things such as Vue and Javascript.
 - I'm currently studying CyberSec in University.
 - Developer and Maintainer of [@cimok/faceit.js](https://github.com/cimok2000/faceit.js)
+- Backend Developer at [Nextero](https://github.com/Nextero)
 
 ### Connect with me:
 
