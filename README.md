@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=cimok.co.uk&style=for-the-badge&url=https%3A%2F%2Fcimok.co.uk)](https://cimok.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cimok2000?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcimok2000&screen_name=cimok2000)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5A21AY)
 
 ## I am a CyberSec Student and Developer
 
