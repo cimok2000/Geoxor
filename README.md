@@ -9,7 +9,6 @@
 - I develop in Typescript and Python mainly, and use Web Technologies such as Vue and React (NextJS and plain React).
 - I'm currently studying CyberSec in University.
 - Developer and Maintainer of [@cimok/faceit.js](https://github.com/cimok2000/faceit.js) and [superhero.js](https://github.com/cimok2000/superhero.js)
-- Co-Founder at [Nextero](https://github.com/Nextero)
 
 ### Connect with me:
 
