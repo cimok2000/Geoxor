@@ -39,14 +39,16 @@
 <br />
 <br />
 
-<p align="center">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cimok2000&theme=onedark&column=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=cimok2000&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=0d1117">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimok2000&layout=compact&hide_border=true&theme=radical&bg_color=0d1117">
   </a>
-</p>
+</div>
 
 [website]: https://cimok.co.uk
 [youtube]: https://www.youtube.com/channel/UCE28SIvmo91GlHGJwdQsxKA
