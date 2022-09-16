@@ -20,7 +20,6 @@
   <li>I'm currently studying CyberSec in University.</li>
   <li>CEO and Developer at <a href="https://github.com/Cypheria">Cypheria</a></li>
   <li>Developer and Maintainer of <a href="https://github.com/cimok2000/faceit.js">@cimok/faceit.js</a> and <a href="https://github.com/cimok2000/superhero.js">superhero.js</a></li>
-  <li>Developer at <a href="https://gitlab.com/LegacyStrike-Software-Collection">LegacyStrike</a></li>
 </ul>
 
 <h3 align="center">Languages and Tools:</h3>
