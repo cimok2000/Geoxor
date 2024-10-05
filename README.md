@@ -17,7 +17,6 @@
 
 <ul align="center">
   <li>I develop in Typescript and Python mainly, and use Web Technologies such as Vue and React (NextJS and plain React).</li>
-  <li>I'm currently studying CyberSec in University.</li>
   <li>Developer and Maintainer of <a href="https://github.com/cimok2000/faceit.js">@cimok/faceit.js</a> and <a href="https://github.com/cimok2000/superhero.js">superhero.js</a></li>
 </ul>
 
