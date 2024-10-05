@@ -13,7 +13,7 @@
 </div>
 
 
-<h2 align="center">I am a CyberSec Student and Developer</h2>
+<h2 align="center">I am a Cyber Security Graduate and Developer</h2>
 
 <ul align="center">
   <li>I develop in Typescript and Python mainly, and use Web Technologies such as Vue and React (NextJS and plain React).</li>
